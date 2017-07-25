@@ -14,7 +14,7 @@
 $app = new Illuminate\Foundation\Application(
     realpath(__DIR__.'/../')
 );
-//git remot 
+//git remot git fetch
 /*
 |--------------------------------------------------------------------------
 | Bind Important Interfaces
